@@ -1,0 +1,28 @@
+name: Asesoría en Sistemas de Información
+favicon: null
+layout_spectrum: 0.689611685462296
+typography_spectrum: 0.6337036401964724
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7558140717446804
+  lightness: 0.4935223732609302
+  saturation: 0.28365275054238737
+  rhythmicContrast: 0.2664826780091971
+purpose: []
